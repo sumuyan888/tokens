@@ -1,0 +1,11 @@
+{
+  "name": "MP TOKEN",
+  "website": "https://www.mb.com",
+  "description": "MP is very good. ",
+  "explorer": "https://bscscan.com/token/0XBF8CFC447BFB4579668B08AB2210993C77BFB8AA",
+  "type": "BEP20",
+  "symbol": "MP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0XBF8CFC447BFB4579668B08AB2210993C77BFB8AA"
+}
